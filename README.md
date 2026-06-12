@@ -40,7 +40,7 @@ The platform will also use analytics and AI-assisted features to support fair pr
 * React.js
 * Tailwind CSS
 * Express.js
-* MySQL
+* Supabase
 * Docker
 * GitHub / GitHub Desktop
 * AWS Deployment
